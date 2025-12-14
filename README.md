@@ -1,2 +1,2 @@
 # uciber
-Repositorio principal del contenido Uciber en Ciberseguridad
+Repositorio Uciber en Ciberseguridad
