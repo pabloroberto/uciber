@@ -1,0 +1,13 @@
+{
+  "id": "M01",
+  "titulo": "Introducción a la Ciberseguridad",
+  "nivel_minimo": 0,
+  "nivel_maximo": 5,
+  "estado": "en_desarrollo",
+  "version_actual": "0.1",
+  "objetivo": "Introducir los conceptos básicos de la ciberseguridad a cualquier público",
+  "publico_objetivo": ["general","estudiantes","profesionales"],
+  "dependencias": [],
+  "modulos_relacionados": []
+}
+
